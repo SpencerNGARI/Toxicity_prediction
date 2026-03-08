@@ -1,0 +1,15 @@
+EE_Dt
+C2SP2
+ZMIC1
+naAromAtom
+nBondsD
+minssNH
+nC
+nT6Ring
+MLogP
+ETA_Eta_F_L
+MATS8c
+SpAD_Dt
+MDEC-23
+SHaaCH
+minHBint4
